@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TripsDashboard</string>
+    <string name="profile">Profile</string>
+    <string name="trips">Trips</string>
+    <string name="home">Home</string>
+    <string name="air_france">Air France</string>
+    <string name="flying">Flying</string>
+    <string name="to">To</string>
+    <string name="where_are_you">Where Are You</string>
+    <string name="enter_your_destination">Enter Your Destination</string>
+    <string name="all">All</string>
+    <string name="upcoming_trips">Upcoming Trips</string>
+    <string name="tue_dec_14_2021">Tue, Dec 14, 2021</string>
+    <string name="lon">LON</string>
+    <string name="london">London</string>
+    <string name="_20_21">20:21</string>
+    <string name="par">PAR</string>
+    <string name="paris">Paris</string>
+    <string name="popular">Popular</string>
+    <string name="singapore">Singapore</string>
+    <string name="sydney">Sydney</string>
+    <string name="indonesia">Indonesia</string>
+</resources>
